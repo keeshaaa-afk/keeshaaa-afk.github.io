@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading 
