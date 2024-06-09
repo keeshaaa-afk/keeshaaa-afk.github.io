@@ -1,5 +1,3 @@
-theme: jekyll-theme-cayman
-
 # h1 Heading
 ## h2 Heading
 ### h3 Heading 
@@ -106,5 +104,10 @@ Right aligned columnns
 ## Images
 
 ![Hello](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+
+plugins:
+  - jekyll-feed
+
+theme: jekyll-theme-merlot
 
 ## The End!
