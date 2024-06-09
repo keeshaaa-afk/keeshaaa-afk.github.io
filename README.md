@@ -95,7 +95,7 @@ Right aligned columnns
 | ext    | extension to be used for dest files. |
 
 
-## linkks
+## links
 
 [link text](http://dev.keesha.com)
 
